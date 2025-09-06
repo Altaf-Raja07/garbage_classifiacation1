@@ -36,12 +36,13 @@ python -m venv venv
 source venv/bin/activate       # Linux/macOS
 .\venv\Scripts\activate        # Windows
 pip install -r requirements.txt
+```
 
 ### Clone the repository
 ```bash
 git clone https://github.com/Altaf-Raja07/garbage_classifiacation1.git
 cd garbage_classifiacation1
-
+```
 
 ## 📊 Model Training & Evaluation
 
