@@ -37,25 +37,15 @@ source venv/bin/activate       # Linux/macOS
 .\venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 
-## clone the repository
+### Clone the repository
+```bash
 git clone https://github.com/Altaf-Raja07/garbage_classifiacation1.git
 cd garbage_classifiacation1
 
-install dependencies:
 
-pip install -r requirements.txt
+## 📊 Model Training & Evaluation
 
-
-Run the application:
-
-python app.py
-
-#📊 Model Training & Evaluation
-
-Use the waste_classification_model.ipynb notebook to:
-
-Train a new model
-
-Evaluate model performance
-
-Experiment with datasets or parameters
+- Use the `waste_classification_model.ipynb` notebook to:
+  - Train a new model  
+  - Evaluate model performance  
+  - Experiment with datasets or parameters
